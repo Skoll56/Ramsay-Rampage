@@ -1,0 +1,30 @@
+﻿  SDL Display.cpp
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\combatmanager.h(26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\combatmanager.h(27): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\sdl display.cpp(29): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\sdl display.cpp(93): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\sdl display.cpp(114): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\sdl display.cpp(115): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\sdl display.cpp(135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\sdl display.cpp(136): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\sdl display.cpp(148): warning C4018: '<': signed/unsigned mismatch
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\sdl display.cpp(155): warning C4805: '==': unsafe mix of type 'float' and type 'bool' in operation
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\sdl display.cpp(215): warning C4244: '=': conversion from 'Uint32' to 'float', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\sdl display.cpp(218): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+  GameObject.cpp
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\gameobject.cpp(30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\gameobject.cpp(31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\gameobject.cpp(33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\gameobject.cpp(69): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\gameobject.cpp(70): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\gameobject.cpp(127): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\gameobject.cpp(141): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\gameobject.cpp(143): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\gameobject.cpp(156): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\gameobject.cpp(157): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\gameobject.cpp(158): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\gameobject.cpp(159): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\gameobject.cpp(160): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\introduction to oo programming\oo\itoop assignment 2\gameobject.cpp(161): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  ITOOP Assignment 2.vcxproj -> D:\Users\Skoll\OneDrive - Bournemouth University\Work\Introduction to OO Programming\OO\ITOOP Assignment 2\Debug\ITOOP Assignment 2.exe
